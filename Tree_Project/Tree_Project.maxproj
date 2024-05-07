@@ -2,8 +2,8 @@
 	"name" : "Tree_Project",
 	"version" : 1,
 	"creationdate" : 3797336590,
-	"modificationdate" : 3797814432,
-	"viewrect" : [ 25.0, 107.0, 300.0, 500.0 ],
+	"modificationdate" : 3797960627,
+	"viewrect" : [ 849.0, 186.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -25,6 +25,23 @@
 				"kind" : "patcher",
 				"local" : 1
 			}
+,
+			"getLightPosition.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+
+		}
+,
+		"media" : 		{
+			"flowers.mov" : 			{
+				"kind" : "moviefile",
+				"local" : 1
+			}
+
+		}
+,
+		"externals" : 		{
 
 		}
 
